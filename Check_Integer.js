@@ -1,3 +1,4 @@
+// Check Integer
 let a = 12;
 
 if(a%1 == 0){
