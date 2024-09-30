@@ -2,7 +2,7 @@
 
 const str = "Hello World"
 const array = str.split(" ");
-
+console.log(str.reverse)
 let comp_Str="";
 console.log(array[1].length);
 for (let i=0;i<=array.length-1;i++){
